@@ -1,0 +1,70 @@
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\bin\Debug\1002.exe.config
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\bin\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\bin\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\obj\Debug\API 과제.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\obj\Debug\_1002.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\obj\Debug\API 과제.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\obj\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\오픈api 코드\1002\obj\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\bin\Debug\1002.exe.config
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\bin\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\bin\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\obj\Debug\API 과제.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\obj\Debug\_1002.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\obj\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\공모전\오픈소스 경진대회\1002\obj\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\bin\Debug\1002.exe.config
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\bin\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\bin\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\obj\Debug\API 과제.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\obj\Debug\_1002.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\obj\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\1002\obj\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\bin\Debug\1002.exe.config
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\bin\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\bin\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\obj\Debug\API 과제.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\obj\Debug\_1002.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\obj\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\바탕 화면\오픈소스 경진대회\1002\obj\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\bin\Debug\1002.exe.config
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\bin\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\bin\Debug\1002.pdb
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\obj\Debug\API 과제.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\obj\Debug\_1002.Form1.resources
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.GenerateResource.cache
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\obj\Debug\1002.exe
+C:\Users\54281\OneDrive\바탕 화면\오픈소스 경진대회\오픈소스 경진대회\1002\obj\Debug\1002.pdb
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\bin\Debug\1002.exe.config
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\bin\Debug\1002.exe
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\bin\Debug\1002.pdb
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\obj\Debug\API 과제.csprojAssemblyReference.cache
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\obj\Debug\_1002.Form1.resources
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.GenerateResource.cache
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.CoreCompileInputs.cache
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\obj\Debug\1002.exe
+C:\Users\kmh\Desktop\오픈소스 경진대회\1002\obj\Debug\1002.pdb
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\bin\Debug\1002.exe.config
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\bin\Debug\1002.exe
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\bin\Debug\1002.pdb
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\API 과제.csprojAssemblyReference.cache
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\_1002.Form1.resources
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\_1002.Properties.Resources.resources
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.GenerateResource.cache
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.CoreCompileInputs.cache
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\1002.exe
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\1002.pdb
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\_1002.AddFavorite.resources
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\bin\Debug\Microsoft.Speech.dll
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\Interop.WMPLib.dll
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.ResolveComReference.cache
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\Debug\API 과제.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\bin\x86\Debug\1002.exe.config
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\bin\x86\Debug\1002.exe
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\bin\x86\Debug\1002.pdb
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\bin\x86\Debug\Microsoft.Speech.dll
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\API 과제.csproj.ResolveComReference.cache
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\_1002.AddFavorite.resources
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\_1002.Form1.resources
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\_1002.Properties.Resources.resources
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\API 과제.csproj.GenerateResource.cache
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\API 과제.csproj.CoreCompileInputs.cache
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\API 과제.csproj.CopyComplete
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\1002.exe
+C:\Users\kmh\Desktop\공모전 및 경진대회\오픈소스 경진대회 자료\오픈소스 경진대회\1002\obj\x86\Debug\1002.pdb
